@@ -1,0 +1,284 @@
+.realestateRegistrationPageChild {
+  position: absolute;
+  top: 0;
+  left: 656px;
+  width: 624px;
+  height: 832px;
+  object-fit: cover;
+}
+.inputTitle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 140%;
+}
+.inputlightinputTitle {
+  position: relative;
+  width: 95px;
+  height: 20px;
+}
+.inputText {
+  position: relative;
+  line-height: 140%;
+}
+.inputlightinputText {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.inputButton {
+  align-self: stretch;
+  position: relative;
+  background-color: var(--color-darkcyan-100);
+  height: 2px;
+}
+.inputlightinput,
+.inputlightinputGroup {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.inputlightinput {
+  border-radius: var(--br-5xs);
+  width: 346px;
+  padding: var(--padding-5xs) 0 0;
+  box-sizing: border-box;
+  justify-content: flex-end;
+  gap: var(--gap-3xs);
+  font-size: var(--font-size-sm);
+  color: var(--text-light-black);
+}
+.inputlightinputGroup {
+  width: 340px;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.iconoutlineeye {
+  position: relative;
+  width: 18px;
+  height: 18px;
+}
+.textIcon {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.inputlightinput2,
+.inputlightinputGroup2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.inputlightinput2 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  padding: var(--padding-5xs) 0 0;
+  justify-content: flex-end;
+  gap: var(--gap-3xs);
+  font-size: var(--font-size-sm);
+  color: var(--text-light-black);
+}
+.inputlightinputGroup2 {
+  width: 346px;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.inputGroup1 {
+  width: 346px;
+  gap: var(--gap-base);
+}
+.inputGroup,
+.inputGroup1,
+.inputWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.inputWrapper {
+  width: 346px;
+}
+.inputGroup {
+  position: absolute;
+  top: 187px;
+  left: 146px;
+  gap: var(--gap-base);
+  color: var(--neutral-light-02);
+}
+.buttonText {
+  position: relative;
+  font-weight: 600;
+}
+.buttonlightprimaryButton {
+  position: absolute;
+  top: 533px;
+  left: 146px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-darkcyan-100);
+  width: 346px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-smi) var(--padding-31xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--text-light-white);
+}
+.inputText4 {
+  position: absolute;
+  top: calc(50% - 8.5px);
+  left: 105px;
+  line-height: 140%;
+}
+.formField {
+  position: absolute;
+  height: 100%;
+  width: calc(100% + 6px);
+  top: 0;
+  right: -3px;
+  bottom: 0;
+  left: -3px;
+  border-radius: var(--br-9xs);
+  background-color: var(--text-light-white);
+  border: 0.1px solid var(--grey);
+  box-sizing: border-box;
+}
+.formFieldWrapper {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  width: 342px;
+  height: 39px;
+}
+.iconsocialfacebook {
+  position: absolute;
+  height: 51.28%;
+  width: 5.78%;
+  top: 23.08%;
+  right: 89.02%;
+  bottom: 25.64%;
+  left: 5.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.base {
+  position: absolute;
+  height: 4.69%;
+  width: 27.03%;
+  top: 72.24%;
+  right: 61.56%;
+  bottom: 23.08%;
+  left: 11.41%;
+  text-align: center;
+  color: var(--text-light-black);
+}
+.inputText5 {
+  position: absolute;
+  top: calc(50% - 8.5px);
+  left: 113px;
+  line-height: 140%;
+}
+.base1 {
+  position: absolute;
+  height: 4.69%;
+  width: 27.03%;
+  top: 78.37%;
+  right: 61.56%;
+  bottom: 16.95%;
+  left: 11.41%;
+  text-align: center;
+  color: var(--text-light-black);
+}
+.logIn {
+  text-decoration: underline;
+  color: var(--color-darkcyan-100);
+}
+.alreadyHaveAnContainer {
+  position: absolute;
+  top: 25px;
+  left: calc(50% - 92px);
+}
+.alreadyHaveAnAccountLogIWrapper {
+  position: absolute;
+  top: 767px;
+  left: 0;
+  background-color: var(--color-ghostwhite);
+  width: 656px;
+  height: 65px;
+  overflow: hidden;
+  text-align: center;
+  color: var(--color-black);
+}
+.defaultABeautifulModernLogIcon {
+  position: absolute;
+  height: 100%;
+  width: 51.59%;
+  top: 0;
+  right: 48.41%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.betoch1 {
+  position: absolute;
+  height: 18.52%;
+  width: 52.87%;
+  top: 40.74%;
+  left: 47.13%;
+  display: inline-block;
+}
+.betoch {
+  position: relative;
+  width: 157px;
+  height: 81px;
+}
+.logo,
+.welcome {
+  position: absolute;
+}
+.logo {
+  top: calc(50% - 416px);
+  right: 1123px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-smi);
+}
+.welcome {
+  top: 137px;
+  left: 288px;
+  font-size: var(--font-size-xl);
+  line-height: 140%;
+  display: inline-block;
+  width: 113px;
+  height: 44px;
+}
+.realestateRegistrationPageItem {
+  position: absolute;
+  top: 0;
+  left: 656px;
+  background-color: var(--color-gray-400);
+  width: 624px;
+  height: 832px;
+}
+.realestateRegistrationPage {
+  position: relative;
+  background-color: var(--color-aliceblue-100);
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-skyblue-100);
+  font-family: var(--font-inter);
+}

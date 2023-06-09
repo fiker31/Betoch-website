@@ -1,0 +1,743 @@
+.realestateProductDetailsPagChild {
+  position: absolute;
+  top: 426px;
+  left: 128px;
+  border-radius: var(--br-3xs);
+  width: 200px;
+  height: 150px;
+  object-fit: cover;
+}
+.inputlightinputGroup {
+  width: 340px;
+}
+.inputTitle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 140%;
+}
+.inputlightinputTitle {
+  position: relative;
+  width: 95px;
+  height: 20px;
+}
+.inputText {
+  position: relative;
+  line-height: 140%;
+}
+.inputlightinputText {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.inputButton {
+  align-self: stretch;
+  position: relative;
+  background-color: var(--color-darkcyan-100);
+  height: 2px;
+}
+.inputlightinput,
+.inputlightinputGroup1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.inputlightinput {
+  border-radius: var(--br-5xs);
+  width: 346px;
+  padding: var(--padding-5xs) 0 0;
+  box-sizing: border-box;
+  justify-content: flex-end;
+  gap: var(--gap-3xs);
+  font-size: var(--font-size-sm);
+  color: var(--text-light-black);
+}
+.inputlightinputGroup1 {
+  width: 340px;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.inputText1 {
+  position: relative;
+  line-height: 140%;
+  display: none;
+}
+.inputlightinputText1 {
+  display: none;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.iconoutlineeye {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  display: none;
+}
+.inputlightinput1,
+.textIcon {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.inputlightinput1 {
+  border-radius: var(--br-5xs);
+  flex-direction: column;
+  padding: var(--padding-5xs) 0 0;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: var(--gap-3xs);
+  font-size: var(--font-size-sm);
+  color: var(--text-light-black);
+}
+.inputlightinputGroup2 {
+  width: 346px;
+  gap: var(--gap-11xs);
+}
+.inputGroup,
+.inputWrapper,
+.inputlightinputGroup2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.inputWrapper {
+  width: 346px;
+}
+.inputGroup {
+  position: absolute;
+  top: 0;
+  left: 0;
+  gap: var(--gap-base);
+}
+.componentChild {
+  position: absolute;
+  top: 220px;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-skyblue-100);
+  width: 346px;
+  height: 59px;
+}
+.bookTour {
+  position: absolute;
+  top: 242px;
+  left: calc(50% - 34px);
+  font-size: var(--font-size-base);
+  line-height: 140%;
+  color: var(--text-light-white);
+}
+.inputGroupParent {
+  position: absolute;
+  top: 82px;
+  left: 942px;
+  width: 346px;
+  height: 279px;
+}
+.realestateProductDetailsPagItem {
+  position: absolute;
+  top: 441px;
+  left: 942px;
+  width: 537px;
+  height: 518px;
+}
+.groupChild,
+.groupInner,
+.groupItem {
+  position: absolute;
+  border-radius: var(--br-3xs);
+}
+.groupChild {
+  top: 0;
+  left: 256px;
+  width: 467px;
+  height: 494px;
+  object-fit: cover;
+}
+.groupInner,
+.groupItem {
+  left: 0;
+  width: 200px;
+  height: 150px;
+}
+.groupItem {
+  top: 0;
+  box-shadow: 0 4px 4px rgba(1, 171, 204, 0.25);
+  border: 3px solid rgba(1, 171, 204, 0.71);
+  box-sizing: border-box;
+}
+.groupInner {
+  top: 172px;
+  object-fit: cover;
+}
+.lxDigitalPowerofpaintColortIcon {
+  position: absolute;
+  top: 6px;
+  left: 7px;
+  width: 187px;
+  height: 138px;
+  object-fit: cover;
+}
+.ellipseDiv {
+  position: absolute;
+  top: 224px;
+  left: 76px;
+  border-radius: 50%;
+  background-color: var(--text-light-white);
+  width: 55px;
+  height: 55px;
+}
+.play1Icon {
+  position: absolute;
+  top: 242px;
+  left: 94px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 344px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: rgba(0, 0, 0, 0.53);
+  width: 200px;
+  height: 150px;
+}
+.gallery1Icon {
+  position: absolute;
+  top: 411.02px;
+  left: 75.02px;
+  width: 37.96px;
+  height: 37.96px;
+  overflow: hidden;
+}
+.b {
+  position: absolute;
+  top: 417px;
+  left: 128px;
+  display: inline-block;
+  width: 41px;
+  height: 21px;
+}
+.groupChild1,
+.lineIcon {
+  position: absolute;
+  top: -5px;
+  left: 747px;
+  width: 10px;
+  height: 185px;
+}
+.groupChild1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-smi);
+  background-color: var(--color-skyblue-100);
+  width: 75px;
+  height: 33px;
+}
+.forSale,
+.rectangleGroup {
+  position: absolute;
+  top: 8px;
+  left: 11px;
+}
+.rectangleGroup {
+  top: 16px;
+  left: 273px;
+  width: 75px;
+  height: 33px;
+  text-align: center;
+  font-size: var(--font-size-smi);
+}
+.vectorIcon {
+  position: absolute;
+  height: 3.56%;
+  width: 2.66%;
+  top: 3.24%;
+  right: 5.32%;
+  bottom: 93.2%;
+  left: 92.02%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.realestateProductDetailsPagInner,
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 752px;
+  height: 494px;
+}
+.realestateProductDetailsPagInner {
+  top: 82px;
+  left: 128px;
+  font-size: var(--font-size-xl);
+  color: var(--text-light-white);
+}
+.defaultABeautifulModernLogIcon {
+  position: absolute;
+  height: 100%;
+  width: 51.59%;
+  top: 0;
+  right: 48.41%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.betoch1 {
+  position: absolute;
+  height: 18.52%;
+  width: 52.87%;
+  top: 40.74%;
+  left: 47.13%;
+  display: inline-block;
+}
+.betoch {
+  position: relative;
+  width: 157px;
+  height: 81px;
+}
+.logo {
+  position: absolute;
+  top: calc(50% - 40.5px);
+  right: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.frameDiv,
+.logoWrapper {
+  position: absolute;
+  height: 81px;
+}
+.logoWrapper {
+  top: calc(50% - 40.5px);
+  right: 1051px;
+  width: 157px;
+}
+.frameDiv {
+  top: 0;
+  left: 0;
+  width: 1208px;
+  font-size: var(--font-size-smi);
+  color: var(--color-skyblue-100);
+}
+.heartIcon {
+  position: relative;
+  width: 20.01px;
+  height: 17.58px;
+}
+.icon {
+  position: absolute;
+  top: 15px;
+  left: 1282px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-8xs);
+  align-items: center;
+  justify-content: center;
+}
+.man1Icon {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.man1Wrapper,
+.search {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.man1Wrapper {
+  position: absolute;
+  top: 9px;
+  left: 1385px;
+}
+.search {
+  color: var(--color-skyblue-100);
+}
+.home {
+  position: relative;
+}
+.about {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.blog,
+.blog1 {
+  width: 83px;
+  height: 15px;
+}
+.blog1 {
+  position: absolute;
+  top: -1px;
+  right: 0;
+  display: inline-block;
+}
+.blog {
+  position: relative;
+}
+.content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-35xl);
+}
+.navbar {
+  position: relative;
+  width: 447px;
+  height: 16px;
+}
+.navigationBar {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.lineDiv {
+  position: absolute;
+  top: 20px;
+  left: -1px;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.25);
+  border-top: 2px solid var(--color-skyblue-100);
+  box-sizing: border-box;
+  width: 51px;
+  height: 2px;
+}
+.navigationBarParent {
+  position: absolute;
+  top: 28px;
+  left: 385px;
+  width: 448px;
+  height: 21px;
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-200);
+}
+.etb10000000 {
+  position: absolute;
+  top: 671px;
+  left: 766px;
+  font-weight: 600;
+  color: #d32323;
+}
+.groupChild2,
+.groupChild3 {
+  position: absolute;
+  border-radius: var(--br-3xs);
+}
+.groupChild2 {
+  top: 0;
+  left: 0;
+  background-color: var(--text-light-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 342.67px;
+  height: 62px;
+}
+.groupChild3 {
+  top: 12px;
+  left: 20.75px;
+  background-color: var(--color-darkcyan-200);
+  width: 132.26px;
+  height: 19px;
+}
+.abebeTesfaye {
+  position: absolute;
+  top: 13px;
+  left: 40.9px;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  display: inline-block;
+  width: 90.18px;
+  height: 18px;
+}
+.vectorIcon1 {
+  position: absolute;
+  height: 19.36%;
+  width: 3.2%;
+  top: 24.19%;
+  right: 90.1%;
+  bottom: 56.44%;
+  left: 6.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.soremIpsumDolor,
+.soremIpsumDolor1 {
+  position: absolute;
+  top: 17px;
+  left: 159.44px;
+  display: inline-block;
+  width: 207.56px;
+}
+.soremIpsumDolor1 {
+  top: 31px;
+  left: 19.44px;
+  width: 273.16px;
+}
+.rectangleContainer {
+  position: absolute;
+  top: 1093px;
+  left: -19px;
+  width: 367px;
+  height: 62px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-100);
+}
+.realestateProductDetailsPagChild1 {
+  position: absolute;
+  top: 908px;
+  left: 382px;
+  border-radius: var(--br-3xs);
+  background-color: var(--text-light-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 491px;
+  height: 62px;
+}
+.realestateProductDetailsPagChild2 {
+  position: absolute;
+  top: 679.5px;
+  left: 767px;
+  width: 93px;
+  height: 1px;
+}
+.div {
+  top: 58px;
+  left: 98px;
+  font-size: var(--font-size-3xs);
+  color: #435e70;
+  width: 22px;
+  height: 17px;
+}
+.div,
+.g3House,
+.jemoMichaelAa {
+  position: absolute;
+  display: inline-block;
+}
+.g3House {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  width: 116px;
+  height: 36px;
+}
+.jemoMichaelAa {
+  top: 33px;
+  left: 2px;
+  color: var(--grey);
+  width: 156px;
+  height: 22px;
+}
+.groupChild4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkcyan-200);
+  width: 60.85px;
+  height: 28.2px;
+}
+.div1,
+.fluentbed20RegularIcon {
+  position: absolute;
+  top: 4.45px;
+  left: 10.39px;
+  width: 26.16px;
+  height: 20.78px;
+}
+.div1 {
+  height: 78.86%;
+  width: 29.27%;
+  top: 21.14%;
+  left: 61.03%;
+  display: inline-block;
+}
+.div2,
+.groupDiv {
+  position: absolute;
+  top: 101.07px;
+  left: 138.02px;
+  width: 60.85px;
+  height: 28.23px;
+}
+.div2 {
+  height: 78.86%;
+  width: 29.27%;
+  top: 21.14%;
+  left: 56.1%;
+  display: inline-block;
+}
+.phbathtubThinIcon {
+  position: absolute;
+  top: 4.45px;
+  left: 10.39px;
+  width: 22.12px;
+  height: 20.78px;
+}
+.arcticonscar,
+.rectangleParent1 {
+  position: absolute;
+  top: 101.07px;
+  left: 68.27px;
+  width: 60.85px;
+  height: 28.23px;
+}
+.arcticonscar {
+  top: 2.97px;
+  left: 10.39px;
+  width: 21.41px;
+  height: 20.78px;
+}
+.groupIcon,
+.rectangleParent2 {
+  position: absolute;
+  top: 101.07px;
+  left: 0;
+  width: 60.85px;
+  height: 28.23px;
+}
+.groupIcon {
+  height: 3.73%;
+  width: 17.46%;
+  top: 15.35%;
+  right: 81.64%;
+  bottom: 80.92%;
+  left: 0.9%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.yoremIpsumDolor {
+  margin: 0;
+}
+.yoremIpsumDolorContainer {
+  position: absolute;
+  top: 149px;
+  left: 0;
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 478px;
+  height: 118px;
+}
+.etb100000001,
+.review {
+  position: absolute;
+  font-size: var(--font-size-base);
+}
+.etb100000001 {
+  top: 101px;
+  left: 350px;
+  font-weight: 600;
+  color: #0c0c0c;
+}
+.review {
+  top: 283px;
+  left: 0;
+}
+.groupChild7 {
+  position: absolute;
+  top: 309.5px;
+  left: -0.5px;
+  border-top: 1px dashed var(--grey);
+  box-sizing: border-box;
+  width: 494px;
+  height: 1px;
+}
+.groupChild8 {
+  position: absolute;
+  top: 335px;
+  left: 13.75px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkcyan-200);
+  width: 132.26px;
+  height: 19px;
+}
+.abebeTesfaye1 {
+  position: absolute;
+  top: 336px;
+  left: 37.9px;
+  display: inline-block;
+  width: 90.18px;
+  height: 18px;
+}
+.vectorIcon2 {
+  position: absolute;
+  height: 3.18%;
+  width: 2.38%;
+  top: 89.42%;
+  right: 93.24%;
+  bottom: 7.41%;
+  left: 4.38%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.soremIpsumDolor2,
+.soremIpsumDolor3 {
+  position: absolute;
+  top: 336px;
+  left: 153px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 325px;
+}
+.soremIpsumDolor3 {
+  top: 354px;
+  left: 16px;
+  width: 450px;
+}
+.groupChild9 {
+  position: absolute;
+  top: 91.5px;
+  left: 382px;
+  width: 93px;
+  height: 1px;
+}
+.parent,
+.realestateProductDetailsPagInner1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 493px;
+  height: 378px;
+}
+.realestateProductDetailsPagInner1 {
+  top: 585px;
+  left: 385px;
+  color: var(--color-black);
+}
+.realestateProductDetailsPag {
+  position: relative;
+  background-color: var(--text-light-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--neutral-light-02);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,1300 @@
+.defaultABeautifulModernLogIcon {
+  position: absolute;
+  height: 100%;
+  width: 51.59%;
+  top: 0;
+  right: 48.41%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.betoch1 {
+  position: absolute;
+  height: 18.52%;
+  width: 52.87%;
+  top: 40.74%;
+  left: 47.13%;
+  display: inline-block;
+}
+.betoch {
+  position: relative;
+  width: 157px;
+  height: 81px;
+}
+.logo {
+  position: absolute;
+  top: calc(50% - 40.5px);
+  right: 1013px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.heartIcon {
+  position: relative;
+  width: 20.01px;
+  height: 17.58px;
+}
+.icon {
+  position: absolute;
+  top: 15px;
+  left: 1027px;
+  padding: var(--padding-8xs);
+}
+.icon,
+.search {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.home {
+  position: relative;
+}
+.about {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-skyblue-100);
+}
+.blog,
+.blog1 {
+  width: 83px;
+  height: 15px;
+}
+.blog1 {
+  position: absolute;
+  top: -1px;
+  right: 0;
+  display: inline-block;
+}
+.blog {
+  position: relative;
+}
+.content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-35xl);
+}
+.navbar {
+  position: relative;
+  width: 446px;
+  height: 16px;
+}
+.navigationBar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.groupChild {
+  position: absolute;
+  top: 20px;
+  left: 90px;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.25);
+  border-top: 2px solid var(--color-skyblue-100);
+  box-sizing: border-box;
+  width: 51px;
+  height: 2px;
+}
+.navigationBarParent {
+  position: absolute;
+  top: 19px;
+  left: 289px;
+  width: 446px;
+  height: 21px;
+  color: var(--color-gray-200);
+}
+.man1Icon {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.man1Wrapper {
+  position: absolute;
+  top: 9px;
+  left: 1130px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.groupWrapper,
+.logoParent {
+  position: absolute;
+  height: 81px;
+}
+.logoParent {
+  top: calc(50% - 40.5px);
+  right: 38px;
+  width: 1170px;
+}
+.groupWrapper {
+  top: 0;
+  left: 0;
+  width: 1208px;
+}
+.componentChild,
+.pexelsVladoPaunovic3750601Icon {
+  position: absolute;
+  border-radius: 0 var(--br-41xl) 0 var(--br-31xl);
+}
+.componentChild {
+  height: 93.43%;
+  width: 96.31%;
+  top: 6.57%;
+  right: 0;
+  bottom: 0;
+  left: 3.69%;
+  background-color: var(--text-light-white);
+  border: 3px solid var(--color-skyblue-100);
+  box-sizing: border-box;
+}
+.pexelsVladoPaunovic3750601Icon {
+  height: 95.02%;
+  width: 97.05%;
+  top: 0;
+  right: 2.95%;
+  bottom: 4.98%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.rectangleParent {
+  position: absolute;
+  top: 75px;
+  left: 598px;
+  width: 542px;
+  height: 502px;
+}
+.houseToRent {
+  height: 4.5%;
+  width: 50.64%;
+  top: 0;
+  font-size: var(--font-size-base);
+}
+.findYourSmart,
+.houseToRent,
+.ifYoureLooking {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.ifYoureLooking {
+  height: 45.98%;
+  width: 100%;
+  top: 54.02%;
+  color: var(--color-black);
+}
+.findYourSmart {
+  height: 41.48%;
+  width: 83.55%;
+  top: 18.33%;
+  font-size: var(--font-size-21xl);
+  font-weight: 600;
+}
+.findYourSmart,
+.k2 {
+  color: var(--color-black);
+}
+.k {
+  height: 10.29%;
+  width: 22.88%;
+  top: 84.89%;
+  left: 0;
+  font-size: var(--font-size-5xl);
+}
+.houseAvailable,
+.houseSold,
+.k,
+.k3 {
+  position: absolute;
+  display: inline-block;
+}
+.houseSold {
+  height: 4.18%;
+  width: 22.88%;
+  top: 95.18%;
+  left: 0;
+  color: var(--color-gray-300);
+}
+.houseAvailable,
+.k3 {
+  left: 55.78%;
+}
+.k3 {
+  height: 10.29%;
+  width: 22.88%;
+  top: 84.89%;
+  font-size: var(--font-size-5xl);
+}
+.houseAvailable {
+  height: 4.18%;
+  width: 33.42%;
+  top: 95.18%;
+  color: var(--color-gray-300);
+}
+.houseToRentOrBuyParent {
+  position: absolute;
+  top: 146px;
+  left: 74px;
+  width: 389px;
+  height: 311px;
+  font-size: var(--font-size-sm);
+}
+.componentItem {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-skyblue-100);
+}
+.search2 {
+  position: absolute;
+  height: 43.94%;
+  width: 44.9%;
+  top: 28.79%;
+  left: 27.55%;
+  display: inline-block;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 486px;
+  left: 77px;
+  width: 196px;
+  height: 66px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--text-light-white);
+}
+.frameParent {
+  position: absolute;
+  top: 0;
+  left: 36px;
+  width: 1208px;
+  height: 577px;
+  text-align: left;
+  color: var(--color-skyblue-100);
+}
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(156, 209, 219, 0.26);
+  width: 1280px;
+  height: 531px;
+}
+.works {
+  color: var(--color-skyblue-100);
+}
+.howItWorksContainer {
+  position: relative;
+  display: inline-block;
+  width: 371px;
+  height: 64px;
+  flex-shrink: 0;
+}
+.frameChild {
+  position: relative;
+  width: 145px;
+  height: 157px;
+}
+.groupParent,
+.howItWorksParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 189px;
+}
+.howItWorksParent {
+  position: absolute;
+  height: 67.1%;
+  width: 93.34%;
+  top: 0;
+  right: 3.56%;
+  bottom: 32.9%;
+  left: 3.1%;
+  flex-direction: column;
+  gap: 40px;
+  font-size: var(--font-size-21xl);
+}
+.researchPlaces {
+  position: absolute;
+  height: 5.66%;
+  width: 22.5%;
+  top: 70.69%;
+  left: 0.11%;
+  font-weight: 600;
+  display: inline-block;
+}
+.weUseInstant,
+.weUseResearch,
+.weUseTrack {
+  position: absolute;
+  height: 20.05%;
+  width: 23.65%;
+  top: 79.95%;
+  left: 0;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+}
+.weUseInstant,
+.weUseTrack {
+  left: 38%;
+}
+.weUseTrack {
+  left: 76.35%;
+}
+.instantValuation,
+.trackProperty {
+  position: absolute;
+  height: 5.66%;
+  width: 22.5%;
+  top: 70.69%;
+  left: 76.92%;
+  font-weight: 600;
+  display: inline-block;
+}
+.instantValuation {
+  left: 38.58%;
+}
+.instanceParent {
+  position: absolute;
+  top: 58px;
+  left: 206px;
+  width: 871px;
+  height: 389px;
+}
+.rectangleContainer {
+  position: relative;
+  width: 1280px;
+  height: 531px;
+}
+.realEstateLandingPageInner {
+  position: absolute;
+  top: 636px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-base);
+}
+.bestHouseDealContainer {
+  top: 0;
+  left: 387px;
+  font-size: var(--font-size-21xl);
+  width: 320px;
+  height: 76px;
+}
+.bestHouseDealContainer,
+.buy,
+.rent,
+.weHaveThe {
+  position: absolute;
+  display: inline-block;
+}
+.weHaveThe {
+  top: 46px;
+  left: 341px;
+  width: 396px;
+  height: 35px;
+}
+.buy,
+.rent {
+  top: 92px;
+  font-size: var(--font-size-base);
+  width: 89px;
+  height: 39px;
+}
+.buy {
+  left: 0;
+  color: var(--color-skyblue-100);
+}
+.rent {
+  left: 112px;
+}
+.groupInner,
+.lineDiv {
+  position: absolute;
+  box-sizing: border-box;
+}
+.groupInner {
+  top: 122.5px;
+  left: -0.5px;
+  border-top: 1px solid rgba(0, 0, 0, 0.37);
+  width: 202px;
+  height: 1px;
+}
+.lineDiv {
+  top: 122px;
+  left: -1px;
+  border-top: 2px solid var(--color-skyblue-100);
+  width: 91px;
+  height: 2px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 77px;
+  left: 975px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-skyblue-100);
+  width: 88px;
+  height: 35px;
+}
+.viewAll {
+  position: absolute;
+  top: 85px;
+  left: 988px;
+  font-size: var(--font-size-base);
+  color: var(--text-light-white);
+}
+.groupChild1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--text-light-white);
+  width: 280px;
+  height: 285px;
+}
+.etb10000000,
+.mexicoAddisAbaba {
+  position: absolute;
+  top: 146px;
+  left: 5px;
+  font-weight: 500;
+  display: inline-block;
+  width: 109px;
+  height: 29px;
+}
+.mexicoAddisAbaba {
+  top: 169px;
+  left: 0;
+  font-weight: 300;
+  width: 212px;
+  height: 19px;
+}
+.instanceChild {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-smi);
+  background-color: var(--color-gainsboro);
+}
+.div,
+.forSaleWrapper,
+.instanceChild {
+  position: absolute;
+  left: 0;
+}
+.forSaleWrapper {
+  top: 0;
+  width: 72.62px;
+  height: 49px;
+}
+.div {
+  top: calc(50% - 9px);
+  display: inline-block;
+  width: 17.41px;
+  height: 19px;
+}
+.angleSmallDown1 {
+  top: 0;
+  left: 12.45px;
+  width: 11.9px;
+  overflow: hidden;
+}
+.angleSmallDown1,
+.bedAlt11Icon,
+.parent {
+  position: absolute;
+  height: 20px;
+}
+.parent {
+  top: calc(50% - 10.5px);
+  left: 48.31px;
+  width: 24.35px;
+}
+.bedAlt11Icon {
+  top: 14px;
+  left: 10.62px;
+  width: 20px;
+  overflow: hidden;
+}
+.forSaleContainer,
+.groupParent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 72.66px;
+  height: 49px;
+}
+.forSaleContainer {
+  width: 66px;
+}
+.div1,
+.wrapper {
+  position: absolute;
+  top: calc(50% - 9.5px);
+  width: 15.82px;
+  height: 19px;
+}
+.div1 {
+  left: 0;
+  display: inline-block;
+}
+.wrapper {
+  left: 48.45px;
+}
+.bath1Icon {
+  position: absolute;
+  top: 14px;
+  left: 15px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.groupParent2 {
+  position: absolute;
+  top: 0;
+  left: 86.62px;
+  width: 66px;
+  height: 49px;
+}
+.forSaleFrame,
+.m2 {
+  position: absolute;
+  left: 0;
+}
+.forSaleFrame {
+  top: 0;
+  width: 95px;
+  height: 49px;
+}
+.m2 {
+  top: calc(50% - 9px);
+  display: inline-block;
+  width: 40px;
+  height: 19px;
+}
+.angleSmallDown11,
+.m2Parent {
+  position: absolute;
+  height: 20px;
+}
+.angleSmallDown11 {
+  top: 0;
+  left: 16.64px;
+  width: 15.57px;
+  overflow: hidden;
+}
+.m2Parent {
+  top: calc(50% - 9.5px);
+  left: 50px;
+  width: 40px;
+}
+.rulerHorizontal1Icon {
+  position: absolute;
+  top: 7.63px;
+  left: 9.41px;
+  width: 34.5px;
+  height: 34.5px;
+  overflow: hidden;
+}
+.groupContainer,
+.groupParent3 {
+  position: absolute;
+  top: 0;
+  left: 166.62px;
+  width: 95px;
+  height: 49px;
+}
+.groupContainer {
+  top: 214px;
+  left: 7.38px;
+  width: 261.62px;
+  font-size: var(--font-size-smi);
+}
+.groupDiv,
+.rectangleIcon {
+  position: absolute;
+  top: 164px;
+  left: 0;
+  width: 280px;
+}
+.groupDiv {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.05);
+  height: 285px;
+}
+.rectangleIcon {
+  border-radius: var(--br-6xl);
+  height: 133px;
+  object-fit: cover;
+}
+.vectorIcon {
+  position: absolute;
+  height: 3.92%;
+  width: 1.59%;
+  top: 40.31%;
+  right: 78.51%;
+  bottom: 55.77%;
+  left: 19.9%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupChild2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-smi);
+  background-color: var(--color-skyblue-100);
+  width: 75px;
+  height: 33px;
+}
+.forSale3,
+.rectangleParent1 {
+  position: absolute;
+  top: 8px;
+  left: 11px;
+}
+.rectangleParent1 {
+  top: 175px;
+  width: 75px;
+  height: 33px;
+  font-size: var(--font-size-smi);
+  color: var(--text-light-white);
+}
+.groupChild4,
+.rectangleParent2 {
+  position: absolute;
+  top: 164px;
+  left: 327px;
+  width: 280px;
+}
+.rectangleParent2 {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.05);
+  height: 285px;
+}
+.groupChild4 {
+  border-radius: var(--br-6xl);
+  height: 133px;
+  object-fit: cover;
+}
+.vectorIcon1 {
+  position: absolute;
+  height: 3.92%;
+  width: 1.59%;
+  top: 40.31%;
+  right: 52.58%;
+  bottom: 55.77%;
+  left: 45.84%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangleParent3 {
+  position: absolute;
+  top: 175px;
+  left: 338px;
+  width: 75px;
+  height: 33px;
+  font-size: var(--font-size-smi);
+  color: var(--text-light-white);
+}
+.groupChild7,
+.rectangleParent4 {
+  position: absolute;
+  top: 164px;
+  left: 654px;
+  width: 280px;
+}
+.rectangleParent4 {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.05);
+  height: 285px;
+}
+.groupChild7 {
+  border-radius: var(--br-6xl);
+  height: 133px;
+  object-fit: cover;
+}
+.vectorIcon2 {
+  position: absolute;
+  height: 3.92%;
+  width: 1.59%;
+  top: 40.31%;
+  right: 26.64%;
+  bottom: 55.77%;
+  left: 71.77%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangleParent5 {
+  position: absolute;
+  top: 175px;
+  left: 665px;
+  width: 75px;
+  height: 33px;
+  font-size: var(--font-size-smi);
+  color: var(--text-light-white);
+}
+.rulerHorizontal1Icon3 {
+  position: absolute;
+  top: 21.01px;
+  left: 43.91px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.groupChild10,
+.rectangleParent6 {
+  position: absolute;
+  top: 164px;
+  left: 981px;
+  width: 280px;
+}
+.rectangleParent6 {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.05);
+  height: 285px;
+}
+.groupChild10 {
+  border-radius: var(--br-6xl);
+  height: 133px;
+  object-fit: cover;
+}
+.rectangleParent7 {
+  position: absolute;
+  top: 175px;
+  left: 992px;
+  width: 75px;
+  height: 33px;
+  font-size: var(--font-size-smi);
+  color: var(--text-light-white);
+}
+.bestHouseDealParent {
+  position: relative;
+  width: 1261px;
+  height: 449px;
+}
+.realEstateLandingPageChild {
+  position: absolute;
+  top: 1203px;
+  left: 103px;
+  height: 449px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-sm);
+}
+.mostDemanding {
+  position: absolute;
+  top: 0;
+  left: 361px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  width: 352px;
+  height: 76px;
+}
+.groupChild12,
+.groupChild13 {
+  position: absolute;
+  top: 90px;
+  left: 0;
+  border-radius: 150px var(--br-6xl) var(--br-6xl) var(--br-6xl);
+  width: 409px;
+  height: 429px;
+  object-fit: cover;
+}
+.groupChild13 {
+  top: 415px;
+  left: 46px;
+  border-radius: var(--br-mini);
+  width: 308px;
+  height: 189px;
+}
+.bookItNow,
+.thisIsThe {
+  position: absolute;
+  left: 430px;
+  text-align: left;
+  display: inline-block;
+}
+.thisIsThe {
+  top: 90px;
+  font-size: 36px;
+  font-weight: 600;
+  width: 582px;
+  height: 126px;
+}
+.bookItNow {
+  top: 194px;
+  width: 473px;
+  height: 83px;
+}
+.groupChild14 {
+  position: absolute;
+  top: 275px;
+  left: 431px;
+  border-radius: var(--br-mini);
+  background-color: var(--text-light-white);
+  border: 1px solid var(--color-skyblue-100);
+  box-sizing: border-box;
+  width: 196px;
+  height: 88px;
+}
+.etb100000004 {
+  position: absolute;
+  top: 325px;
+  left: 478px;
+  text-align: left;
+  display: inline-block;
+  width: 144px;
+  height: 23px;
+}
+.groupChild15,
+.groupChild16,
+.groupChild17 {
+  position: absolute;
+  top: 392px;
+  left: 431px;
+  border-radius: var(--br-mini);
+  background-color: var(--text-light-white);
+  border: 1px solid var(--color-skyblue-100);
+  box-sizing: border-box;
+  width: 196px;
+  height: 88px;
+}
+.groupChild16,
+.groupChild17 {
+  left: 649px;
+}
+.groupChild17 {
+  top: 275px;
+  left: 648px;
+}
+.budget,
+.city,
+.size,
+.status {
+  position: absolute;
+  top: 291px;
+  left: 489px;
+  font-size: var(--font-size-5xl);
+}
+.city,
+.size,
+.status {
+  top: 413px;
+}
+.city,
+.size {
+  top: 291px;
+  left: 724px;
+}
+.city {
+  top: 413px;
+  left: 725px;
+}
+.meterSquare {
+  top: 325px;
+  left: 693px;
+  text-align: left;
+}
+.addisAbaba,
+.meterSquare,
+.onSale {
+  position: absolute;
+  display: inline-block;
+  width: 144px;
+  height: 23px;
+}
+.addisAbaba {
+  top: 447px;
+  left: 705px;
+  text-align: left;
+}
+.onSale {
+  top: 445px;
+  left: 456px;
+}
+.mostDemandingParent {
+  position: relative;
+  width: 1012px;
+  height: 604px;
+}
+.frameDiv {
+  position: absolute;
+  top: 1716px;
+  left: 106px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 47px 0 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-mini);
+}
+.whatOurClientContainer {
+  position: absolute;
+  top: 0;
+  left: 352px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  width: 483px;
+  height: 119px;
+}
+.ourClientsSend {
+  position: absolute;
+  top: 63px;
+  left: 275px;
+  display: inline-block;
+  width: 635px;
+  height: 31px;
+}
+.youllGetThe {
+  margin: 0;
+}
+.youllGetTheContainer {
+  position: absolute;
+  top: 481px;
+  left: 206px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 569px;
+  height: 103px;
+}
+.abebeKebede {
+  position: absolute;
+  top: 323px;
+  left: 500px;
+  font-size: var(--font-size-5xl);
+}
+.addisAbabaEthiopia {
+  position: absolute;
+  top: 361px;
+  left: 511px;
+  color: rgba(30, 30, 30, 0.5);
+  text-align: left;
+  display: inline-block;
+  width: 168px;
+  height: 23px;
+}
+.ellipseIcon {
+  position: absolute;
+  top: 140px;
+  left: 505px;
+  border-radius: 50%;
+  width: 178px;
+  height: 173px;
+  object-fit: cover;
+}
+.groupChild18 {
+  top: 323px;
+  left: -4px;
+  width: 80px;
+  height: 77px;
+  object-fit: cover;
+}
+.ellipseDiv,
+.groupChild18,
+.groupChild19 {
+  position: absolute;
+  border-radius: 50%;
+}
+.groupChild19 {
+  top: 77px;
+  left: 979px;
+  width: 77px;
+  height: 75px;
+  object-fit: cover;
+}
+.ellipseDiv {
+  top: 323px;
+  left: 304px;
+  background-color: #bee6f2;
+  filter: blur(4px);
+  width: 18px;
+  height: 18px;
+}
+.groupChild20,
+.groupChild21,
+.groupChild22 {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(4px);
+  width: 12px;
+  height: 12px;
+}
+.groupChild20 {
+  top: 151px;
+  left: 37px;
+  background-color: var(--color-skyblue-100);
+}
+.groupChild21,
+.groupChild22 {
+  top: 217px;
+  left: 849px;
+  background-color: #def647;
+}
+.groupChild22 {
+  top: 654px;
+  left: 198px;
+  background-color: #fe0808;
+  width: 13px;
+  height: 13px;
+}
+.groupChild23,
+.groupChild24,
+.groupChild25 {
+  position: absolute;
+  top: 619px;
+  left: 1009px;
+  border-radius: 50%;
+  background-color: var(--color-black);
+  filter: blur(4px);
+  width: 16px;
+  height: 16px;
+}
+.groupChild24,
+.groupChild25 {
+  height: 4.8%;
+  width: 3.04%;
+  top: 65.97%;
+  right: 84.6%;
+  bottom: 29.24%;
+  left: 12.36%;
+  background-color: var(--color-skyblue-200);
+}
+.groupChild25 {
+  right: 11.41%;
+  left: 85.55%;
+}
+.vectorIcon3,
+.vectorIcon4 {
+  position: absolute;
+  height: 4.72%;
+  width: 3.49%;
+  top: 66.12%;
+  right: 83.39%;
+  bottom: 29.16%;
+  left: 13.12%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon4 {
+  top: 66.27%;
+  right: 12.1%;
+  bottom: 29.01%;
+  left: 84.41%;
+}
+.quoteRight1Icon,
+.quoteRight2Icon {
+  position: absolute;
+  top: 399.08px;
+  left: 218.13px;
+  width: 78.75px;
+  height: 83.54px;
+  overflow: hidden;
+}
+.quoteRight2Icon {
+  top: 499px;
+  left: 767.46px;
+  width: 80.08px;
+  height: 84.79px;
+}
+.vectorIcon5,
+.vectorIcon6,
+.vectorIcon7,
+.vectorIcon8 {
+  position: absolute;
+  height: 3.19%;
+  width: 2.09%;
+  top: 59.4%;
+  right: 48%;
+  bottom: 37.41%;
+  left: 49.9%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon6,
+.vectorIcon7,
+.vectorIcon8 {
+  right: 45.15%;
+  left: 52.76%;
+}
+.vectorIcon7,
+.vectorIcon8 {
+  top: 59.25%;
+  right: 42.59%;
+  bottom: 37.56%;
+  left: 55.32%;
+}
+.vectorIcon8 {
+  top: 59.1%;
+  right: 40.02%;
+  bottom: 37.71%;
+  left: 57.89%;
+}
+.whatOurClientSaysParent {
+  position: relative;
+  width: 1052px;
+  height: 667px;
+}
+.realEstateLandingPageInner1 {
+  position: absolute;
+  top: 2371px;
+  left: 105px;
+  width: 1052px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-mini);
+}
+.groupChild26 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #e3eff3;
+  width: 1280px;
+  height: 298px;
+}
+.ourPartners {
+  position: absolute;
+  top: 19px;
+  left: 450px;
+  display: inline-block;
+  width: 380px;
+  height: 39px;
+}
+.christmas2012New4191RemoveIcon,
+.removebgPreview1Icon,
+.removebgPreview1Icon1 {
+  position: absolute;
+  top: 94px;
+  left: 92px;
+  width: 223px;
+  height: 146px;
+  object-fit: cover;
+}
+.removebgPreview1Icon,
+.removebgPreview1Icon1 {
+  top: 120px;
+  left: 534px;
+  height: 122.49px;
+}
+.removebgPreview1Icon1 {
+  top: 115px;
+  left: 976px;
+  height: 123.63px;
+}
+.rectangleParent8 {
+  position: relative;
+  width: 1280px;
+  height: 298px;
+}
+.logo1,
+.realEstateLandingPageInner2 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.realEstateLandingPageInner2 {
+  top: 3116px;
+  left: 0;
+  flex-direction: column;
+  font-size: var(--font-size-21xl);
+}
+.logo1 {
+  top: calc(50% - 40.5px);
+  right: 707px;
+  flex-direction: row;
+}
+.navbar1,
+.navigationBarWrapper {
+  position: relative;
+  width: 445px;
+  height: 16px;
+}
+.navigationBarWrapper {
+  position: absolute;
+  top: 33px;
+  left: 419px;
+  color: var(--color-gray-200);
+}
+.logoGroup {
+  position: absolute;
+  top: calc(50% + 1643px);
+  right: 159px;
+  width: 864px;
+  height: 81px;
+  text-align: left;
+  color: var(--color-skyblue-100);
+}
+.realEstateLandingPageItem {
+  position: absolute;
+  top: 3545px;
+  left: 102px;
+  border-top: 2px solid var(--color-skyblue-100);
+  box-sizing: border-box;
+  width: 1065px;
+  height: 2px;
+}
+.copyright2023All {
+  position: absolute;
+  top: 3579px;
+  left: 382px;
+  display: inline-block;
+  width: 516px;
+  height: 24px;
+}
+.copyright1Icon {
+  position: absolute;
+  top: 3582px;
+  left: 588px;
+  width: 10px;
+  height: 10px;
+  overflow: hidden;
+}
+.realEstateLandingPage {
+  position: relative;
+  background-color: var(--color-snow);
+  width: 100%;
+  height: 3634px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-smi);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+a{
+  color: var(--color-black);
+  text-decoration:none;
+}

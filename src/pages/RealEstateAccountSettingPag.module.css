@@ -1,0 +1,521 @@
+.defaultABeautifulModernLogIcon {
+  position: absolute;
+  height: 100%;
+  width: 51.59%;
+  top: 0;
+  right: 48.41%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.betoch1 {
+  position: absolute;
+  height: 18.52%;
+  width: 52.87%;
+  top: 40.74%;
+  left: 47.13%;
+  display: inline-block;
+}
+.betoch {
+  position: relative;
+  width: 157px;
+  height: 81px;
+}
+.logo {
+  position: absolute;
+  top: calc(50% - 416px);
+  right: 1123px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-skyblue-100);
+}
+.heartIcon {
+  position: relative;
+  width: 20.01px;
+  height: 17.58px;
+}
+.icon {
+  position: absolute;
+  top: 15px;
+  left: 1027px;
+  padding: var(--padding-8xs);
+}
+.icon,
+.search {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.home {
+  position: relative;
+}
+.about {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  color: #646464;
+}
+.blog,
+.blog1 {
+  width: 83px;
+  height: 15px;
+}
+.blog1 {
+  position: absolute;
+  top: -1px;
+  right: 0;
+  display: inline-block;
+}
+.blog {
+  position: relative;
+}
+.content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-35xl);
+}
+.navbar {
+  position: relative;
+  width: 446px;
+  height: 16px;
+}
+.navigationBar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.navigationBarWrapper {
+  position: absolute;
+  top: 19px;
+  left: 289px;
+  width: 446px;
+  height: 16px;
+}
+.man1Icon {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.man1Wrapper {
+  position: absolute;
+  top: 9px;
+  left: 1130px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.groupChild {
+  position: absolute;
+  top: 72.5px;
+  left: 192.5px;
+  border-right: 1px solid rgba(0, 0, 0, 0.13);
+  box-sizing: border-box;
+  width: 1px;
+  height: 554px;
+}
+.accountSetting {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-xl);
+  line-height: 140%;
+  display: inline-block;
+  color: var(--color-skyblue-100);
+  width: 165px;
+  height: 22px;
+}
+.myProfile,
+.paymentInformation,
+.savedProperties,
+.security,
+.support {
+  position: absolute;
+  height: 3.51%;
+  width: 45.6%;
+  left: 0;
+  display: inline-block;
+}
+.myProfile {
+  top: 28.75%;
+  color: var(--color-skyblue-100);
+}
+.paymentInformation,
+.savedProperties,
+.security,
+.support {
+  top: 38.66%;
+}
+.paymentInformation,
+.savedProperties,
+.support {
+  width: 93.26%;
+  top: 58.47%;
+}
+.savedProperties,
+.support {
+  top: 68.37%;
+}
+.savedProperties {
+  width: 70.47%;
+  top: 48.56%;
+}
+.lineParent {
+  position: relative;
+  width: 193px;
+  height: 626px;
+}
+.realestateAccountSettingPagInner {
+  position: absolute;
+  top: 137px;
+  left: 109px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-base);
+}
+.myProfile1 {
+  position: absolute;
+  height: 3.34%;
+  width: 12.66%;
+  top: 0;
+  left: 0.24%;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  color: var(--color-gray-200);
+}
+.groupItem {
+  position: absolute;
+  top: 14px;
+  left: 0;
+  border-radius: 50%;
+  width: 112px;
+  height: 112px;
+  object-fit: cover;
+}
+.abebeKebede {
+  top: 33px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.abebeKebede,
+.abebeKebede1,
+.broker {
+  position: absolute;
+  left: 153px;
+  display: inline-block;
+  width: 157px;
+  height: 21px;
+}
+.broker {
+  top: 65px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-500);
+}
+.abebeKebede1 {
+  top: 97px;
+}
+.groupInner,
+.rectangleDiv {
+  position: absolute;
+  top: 50px;
+  left: 697px;
+  border-radius: var(--br-mini);
+  background-color: var(--text-light-white);
+  border: 1px solid var(--color-gray-600);
+  box-sizing: border-box;
+  width: 86px;
+  height: 42px;
+}
+.rectangleDiv {
+  top: 0;
+  background-color: var(--color-skyblue-100);
+  height: 29px;
+}
+.edit,
+.verified {
+  position: absolute;
+  left: 711px;
+}
+.verified {
+  top: 5px;
+  font-weight: 600;
+  color: var(--text-light-white);
+}
+.edit {
+  top: 63px;
+  display: inline-block;
+  width: 37px;
+  height: 28px;
+}
+.vectorIcon {
+  position: absolute;
+  height: 19.84%;
+  width: 3.19%;
+  top: 46.83%;
+  right: 0.89%;
+  bottom: 33.33%;
+  left: 95.91%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ellipseParent,
+.groupWrapper {
+  position: absolute;
+  top: 11px;
+  left: 42px;
+  width: 783px;
+  height: 126px;
+}
+.groupWrapper {
+  top: 76px;
+  left: 0;
+  width: 845px;
+  height: 151px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-700);
+}
+.firstName,
+.personalInformation {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  height: 21px;
+}
+.personalInformation {
+  top: 0;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  width: 203px;
+}
+.firstName {
+  top: 45px;
+  color: var(--color-gray-500);
+  width: 157px;
+}
+.abebe {
+  top: 86px;
+  left: 0;
+  width: 157px;
+}
+.abebe,
+.abebekebede11gmailcom,
+.emailAddress,
+.kebede {
+  position: absolute;
+  display: inline-block;
+  height: 21px;
+}
+.kebede {
+  top: 86px;
+  left: 502px;
+  width: 157px;
+}
+.abebekebede11gmailcom,
+.emailAddress {
+  left: 0;
+}
+.emailAddress {
+  top: 137px;
+  color: var(--color-gray-500);
+  width: 157px;
+}
+.abebekebede11gmailcom {
+  top: 178px;
+  width: 278px;
+}
+.div,
+.lastName,
+.phoneNumber {
+  position: absolute;
+  left: 502px;
+  display: inline-block;
+  width: 157px;
+  height: 21px;
+}
+.phoneNumber {
+  top: 137px;
+  color: var(--color-gray-500);
+}
+.div,
+.lastName {
+  top: 178px;
+}
+.lastName {
+  top: 45px;
+  color: var(--color-gray-500);
+}
+.groupChild1 {
+  position: absolute;
+  top: 147px;
+  left: 697px;
+  border-radius: var(--br-mini);
+  background-color: var(--text-light-white);
+  border: 1px solid var(--color-gray-600);
+  box-sizing: border-box;
+  width: 86px;
+  height: 42px;
+}
+.edit1 {
+  position: absolute;
+  top: 160px;
+  left: 711px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-700);
+  display: inline-block;
+  width: 37px;
+  height: 28px;
+}
+.vectorIcon1 {
+  position: absolute;
+  height: 12.56%;
+  width: 3.19%;
+  top: 78.39%;
+  right: 0.89%;
+  bottom: 9.05%;
+  left: 95.91%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupContainer,
+.personalInformationParent {
+  position: absolute;
+  top: 17px;
+  left: 42px;
+  width: 783px;
+  height: 199px;
+}
+.groupContainer {
+  top: 247px;
+  left: 0;
+  width: 845px;
+  height: 244px;
+}
+.addisAbaba,
+.address,
+.city,
+.ethiopia {
+  position: absolute;
+  display: inline-block;
+  height: 21px;
+}
+.city {
+  top: 45px;
+  left: 503px;
+  color: var(--color-gray-500);
+  width: 157px;
+}
+.addisAbaba,
+.address,
+.ethiopia {
+  left: 1px;
+}
+.address {
+  top: 0;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  width: 92px;
+}
+.addisAbaba,
+.ethiopia {
+  top: 86px;
+  width: 157px;
+}
+.addisAbaba {
+  left: 503px;
+}
+.groupChild2 {
+  position: absolute;
+  top: 62px;
+  left: 698px;
+  border-radius: var(--br-mini);
+  background-color: var(--text-light-white);
+  border: 1px solid var(--color-gray-600);
+  box-sizing: border-box;
+  width: 86px;
+  height: 42px;
+}
+.edit2 {
+  position: absolute;
+  top: 75px;
+  left: 712px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-700);
+  display: inline-block;
+  width: 37px;
+  height: 28px;
+}
+.vectorIcon2 {
+  position: absolute;
+  height: 23.36%;
+  width: 3.19%;
+  top: 66.36%;
+  right: 0.89%;
+  bottom: 10.28%;
+  left: 95.92%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.countryParent {
+  position: absolute;
+  top: 18px;
+  left: 41px;
+  width: 784px;
+  height: 107px;
+}
+.groupFrame,
+.myProfileParent {
+  position: absolute;
+  top: 515px;
+  left: 0;
+  width: 845px;
+  height: 144px;
+}
+.myProfileParent {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+.realestateAccountSettingPagChild {
+  position: absolute;
+  top: 137px;
+  left: 324px;
+  width: 845px;
+  height: 659px;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+}
+.realestateAccountSettingPag {
+  position: relative;
+  background-color: var(--text-light-white);
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-200);
+  font-family: var(--font-inter);
+}
