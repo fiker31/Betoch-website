@@ -6,6 +6,14 @@ const RealEstateLandingPage: FunctionComponent = () => {
   return (
     <div className={styles.frameParent}>
     <div className={styles.groupChild} />
+    <div className={styles.rectangleParent}>
+          <div className={styles.componentChild} />
+          <img
+            className={styles.pexelsVladoPaunovic3750601Icon}
+            alt=""
+            src="/pexelsvladopaunovic3750601-1@2x.png"
+          />
+        </div>
     <div className={styles.houseToRentOrBuyParent}>
     <b className={styles.houseToRent}>House To Rent or Buy</b>
           <div className={styles.ifYoureLooking}>
