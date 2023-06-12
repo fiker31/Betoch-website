@@ -585,7 +585,7 @@ const RealEstateLandingPage: FunctionComponent = () => {
       </div>
       <div className={styles.realEstateLandingPageItem} />
       <div className={styles.copyright2023All}>
-        Copyright 2023. All Rights Reserved
+        Copyright @ 2023. All Rights Reserved
       </div>
       <img className={styles.copyright1Icon} alt="" src="/copyright-1.svg" />
     </div>
