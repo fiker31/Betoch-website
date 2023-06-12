@@ -562,6 +562,7 @@ const RealEstateLandingPage: FunctionComponent = () => {
                   <div className={styles.search}>
                   <div className={styles.home}>Search</div>
                 </div>
+                
                 </a>
                 <a href="/">
                    <div className={styles.search}>
