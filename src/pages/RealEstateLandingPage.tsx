@@ -562,7 +562,7 @@ const RealEstateLandingPage: FunctionComponent = () => {
                   <div className={styles.search}>
                   <div className={styles.home}>Search</div>
                 </div>
-                
+
                 </a>
                 <a href="/">
                    <div className={styles.search}>
@@ -588,7 +588,7 @@ const RealEstateLandingPage: FunctionComponent = () => {
       <div className={styles.copyright2023All}>
         Copyright @ 2023. All Rights Reserved
       </div>
-      <img className={styles.copyright1Icon} alt="" src="/copyright-1.svg" />
+     
     </div>
   );
 };
