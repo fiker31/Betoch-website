@@ -62,6 +62,7 @@ const RealEstateLandingPage: FunctionComponent = () => {
             className={styles.pexelsVladoPaunovic3750601Icon}
             alt=""
             src="/pexelsvladopaunovic3750601-1@2x.png"
+            
           />
         </div>
         <div className={styles.houseToRentOrBuyParent}>
