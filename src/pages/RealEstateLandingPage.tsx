@@ -1,13 +1,8 @@
 import { FunctionComponent } from "react";
 import styles from "./RealEstateLandingPage.module.css";
-import Header from "./Shared/Header";
-import Footer from "./Shared/Footer";
-import Testimonials from "././Testimonials";
-import Deals from "././Deals";
-import HeroSection from "././HeroSection";
-import Demanding from "././Demanding";
-import HowItWorks from "././HowItWorks";
-import Partners from "././Partners";
+import {Header, Footer} from "../Shared";
+import {Testimonials, HeroSection, Demanding, HowItWorks, Deals, Partners} from "../Components";
+
 
 const RealEstateLandingPage: FunctionComponent = () => {
   return (
