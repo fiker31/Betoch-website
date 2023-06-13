@@ -1,5 +1,5 @@
 import { FunctionComponent } from "react";
-import styles from "./RealEstateLandingPage.module.css";
+import styles from "../../pages/RealEstateLandingPage.module.css";
 
 
 const Partners: FunctionComponent = () => {
