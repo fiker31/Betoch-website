@@ -1,7 +1,7 @@
 import { FunctionComponent } from "react";
 import styles from "../../pages/RealEstateLandingPage.module.css";
 
-const Header: FunctionComponent = () => {
+export const Header: FunctionComponent = () => {
     return (
       <div className={styles.realEstateLandingPage}>
         <div className={styles.frameParent}>
@@ -57,4 +57,4 @@ const Header: FunctionComponent = () => {
 </div>
 </div>
             )}
-export default Header;
+

@@ -1,6 +1,6 @@
 import { FunctionComponent } from "react";
 import styles from "../../pages/RealEstateLandingPage.module.css";
-const Footer: FunctionComponent = () => {
+export const Footer: FunctionComponent = () => {
     return (
       <div className={styles.realEstateLandingPage}>
         <div className={styles.frameParent}>
@@ -56,4 +56,3 @@ const Footer: FunctionComponent = () => {
 </div>
 </div>
             )}
-export default Footer;
