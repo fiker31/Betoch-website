@@ -20,7 +20,6 @@ const RealEstateLandingPage: FunctionComponent = () => {
             <Demanding />            
             <HowItWorks />
             <Deals />
-            
             <Testimonials />
             <Partners />
             <Footer />
