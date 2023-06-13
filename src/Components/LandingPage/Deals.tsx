@@ -2,7 +2,7 @@ import { FunctionComponent } from "react";
 import styles from "./RealEstateLandingPage.module.css";
 
 
-const RealEstateLandingPage: FunctionComponent = () => {
+const Deals: FunctionComponent = () => {
   return (
     <div className={styles.frameParent}>
     <div className={styles.realEstateLandingPageChild}>
@@ -301,3 +301,4 @@ const RealEstateLandingPage: FunctionComponent = () => {
 
   )
   }
+  export default Deals;

@@ -2,7 +2,7 @@ import { FunctionComponent } from "react";
 import styles from "./RealEstateLandingPage.module.css";
 
 
-const RealEstateLandingPage: FunctionComponent = () => {
+const HeroSection: FunctionComponent = () => {
   return (
     <div className={styles.frameParent}>
     <div className={styles.groupChild} />
@@ -53,3 +53,4 @@ const RealEstateLandingPage: FunctionComponent = () => {
 
   )
   }
+  export default HeroSection;

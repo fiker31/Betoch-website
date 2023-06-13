@@ -2,7 +2,7 @@ import { FunctionComponent } from "react";
 import styles from "./RealEstateLandingPage.module.css";
 
 
-const RealEstateLandingPage: FunctionComponent = () => {
+const Demanding: FunctionComponent = () => {
   return (
     <div className={styles.frameParent}>
       <div className={styles.frameDiv}>
@@ -47,3 +47,4 @@ const RealEstateLandingPage: FunctionComponent = () => {
 
   )
   }
+  export default Demanding;
