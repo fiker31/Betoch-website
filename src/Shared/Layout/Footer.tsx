@@ -2,7 +2,7 @@ import { FunctionComponent } from "react";
 import styles from "../../pages/RealEstateLandingPage.module.css";
 export const Footer: FunctionComponent = () => {
     return (
-      <div className={styles.realEstateLandingPage}>
+     
         <div className={styles.frameParent}>
         <div className={styles.logoGroup}>
        
@@ -54,5 +54,5 @@ export const Footer: FunctionComponent = () => {
   </div>
  
 </div>
-</div>
+
             )}

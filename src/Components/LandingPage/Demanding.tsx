@@ -4,7 +4,7 @@ import styles from "../../pages/RealEstateLandingPage.module.css";
 
 export const Demanding: FunctionComponent = () => {
   return (
-    <div className={styles.frameParent}>
+   
       <div className={styles.frameDiv}>
         <div className={styles.mostDemandingParent}>
           <b className={styles.mostDemanding}>
@@ -42,7 +42,7 @@ export const Demanding: FunctionComponent = () => {
           <div className={styles.onSale}>On Sale</div>
         </div>
       </div>
-    </div>
+    
  
 
   )

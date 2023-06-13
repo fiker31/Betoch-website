@@ -13,12 +13,14 @@ import {Partners} from "../Components/LandingPage/Partners";
 const RealEstateLandingPage: FunctionComponent = () => {
   return (
     <div className={styles.realEstateLandingPage}>
+      
 
             <Header />
             <HeroSection />
             <Demanding />            
             <HowItWorks />
             <Deals />
+            
             <Testimonials />
             <Partners />
             <Footer />

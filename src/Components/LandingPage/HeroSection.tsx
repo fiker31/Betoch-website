@@ -4,6 +4,7 @@ import styles from "../../pages/RealEstateLandingPage.module.css";
 
 export const HeroSection: FunctionComponent = () => {
   return (
+
     <div className={styles.frameParent}>
     <div className={styles.groupChild} />
     <div className={styles.rectangleParent}>
@@ -49,6 +50,7 @@ export const HeroSection: FunctionComponent = () => {
         </div>
         </a>
     </div>
+  
  
 
   )

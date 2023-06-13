@@ -3,7 +3,7 @@ import styles from "../../pages/RealEstateLandingPage.module.css";
 
 export const Header: FunctionComponent = () => {
     return (
-      <div className={styles.realEstateLandingPage}>
+     
         <div className={styles.frameParent}>
         <div className={styles.logoGroup}>
        
@@ -55,6 +55,6 @@ export const Header: FunctionComponent = () => {
   </div>
  
 </div>
-</div>
+
             )}
 

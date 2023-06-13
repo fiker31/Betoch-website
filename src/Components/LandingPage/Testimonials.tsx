@@ -4,7 +4,7 @@ import styles from "../../pages/RealEstateLandingPage.module.css";
 
  export const Testimonials: FunctionComponent = () => {
   return (
-    <div className={styles.frameParent}>
+   
    <div className={styles.realEstateLandingPageInner1}>
         <div className={styles.whatOurClientSaysParent}>
           <b className={styles.whatOurClientContainer}>
@@ -59,7 +59,7 @@ import styles from "../../pages/RealEstateLandingPage.module.css";
           <img className={styles.vectorIcon8} alt="" src="/vector8.svg" />
         </div>
     </div>
-    </div>
+   
  
 
   )
