@@ -1,7 +1,7 @@
 import { FunctionComponent } from "react";
 import styles from "./RealEstateLandingPage.module.css";
-import {Header, Footer} from "../Shared";
-import {Testimonials, HeroSection, Demanding, HowItWorks, Deals, Partners} from "../Components";
+import {Header, Footer} from "../Shared/Layout";
+import {Testimonials, HeroSection, Demanding, HowItWorks, Deals, Partners} from "../Components/LandingPage";
 
 
 const RealEstateLandingPage: FunctionComponent = () => {
@@ -10,6 +10,7 @@ const RealEstateLandingPage: FunctionComponent = () => {
             <Header />
             <HeroSection />
             <Demanding />
+            
             <HowItWorks />
             <Deals />
             <Testimonials />
