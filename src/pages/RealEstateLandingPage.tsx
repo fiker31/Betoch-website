@@ -1,10 +1,18 @@
 import { FunctionComponent } from "react";
 import styles from "./RealEstateLandingPage.module.css";
-
+import Header from "./Header";
+import Footer from "./Footer";
+import Testimonials from "./Testimonials";
+import Deals from "./Deals";
+import HeroSection from "./HeroSection";
+import Demanding from "./Demanding";
+import HowItWorks from "./HowItWorks";
+import Partners from "./Partners";
 
 const RealEstateLandingPage: FunctionComponent = () => {
   return (
     <div className={styles.realEstateLandingPage}>
+
       <div className={styles.frameParent}>
         <div className={styles.groupWrapper}>
           <div className={styles.logoParent}>
