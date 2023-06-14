@@ -962,7 +962,7 @@
 .whatOurClientContainer {
   position: absolute;
   top: 0;
-  left: 352px;
+  left: 650px;
   font-size: var(--font-size-21xl);
   display: inline-block;
   width: 483px;
@@ -971,7 +971,7 @@
 .ourClientsSend {
   position: absolute;
   top: 63px;
-  left: 275px;
+  left: 570px;
   display: inline-block;
   width: 635px;
   height: 31px;
@@ -991,13 +991,13 @@
 .abebeKebede {
   position: absolute;
   top: 323px;
-  left: 500px;
+  left: 750px;
   font-size: var(--font-size-5xl);
 }
 .addisAbabaEthiopia {
   position: absolute;
   top: 361px;
-  left: 511px;
+  left: 760px;
   color: rgba(30, 30, 30, 0.5);
   text-align: left;
   display: inline-block;
@@ -1007,7 +1007,7 @@
 .ellipseIcon {
   position: absolute;
   top: 140px;
-  left: 505px;
+  left: 750px;
   border-radius: 50%;
   width: 178px;
   height: 173px;
@@ -1015,7 +1015,7 @@
 }
 .groupChild18 {
   top: 323px;
-  left: -4px;
+  left: 200px;
   width: 80px;
   height: 77px;
   object-fit: cover;
@@ -1028,7 +1028,7 @@
 }
 .groupChild19 {
   top: 77px;
-  left: 979px;
+  left: 1300px;
   width: 77px;
   height: 75px;
   object-fit: cover;
@@ -1058,9 +1058,10 @@
 .groupChild21,
 .groupChild22 {
   top: 217px;
-  left: 849px;
+  left: 1049px;
   background-color: #def647;
 }
+
 .groupChild22 {
   top: 654px;
   left: 198px;
@@ -1138,7 +1139,7 @@
   top: 59.4%;
   right: 48%;
   bottom: 37.41%;
-  left: 49.9%;
+  left: 47.9%;
   max-width: 100%;
   overflow: hidden;
   max-height: 100%;
@@ -1147,25 +1148,26 @@
 .vectorIcon7,
 .vectorIcon8 {
   right: 45.15%;
-  left: 52.76%;
+  left: 49.76%;
 }
 .vectorIcon7,
 .vectorIcon8 {
   top: 59.25%;
   right: 42.59%;
   bottom: 37.56%;
-  left: 55.32%;
+  left: 51.6%;
 }
 .vectorIcon8 {
   top: 59.1%;
   right: 40.02%;
   bottom: 37.71%;
-  left: 57.89%;
+  left: 53.6%;
 }
 .whatOurClientSaysParent {
  
   width: 1052px;
   height: 667px;
+ 
 }
 .realEstateLandingPageInner1 {
   position: absolute;

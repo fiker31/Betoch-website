@@ -53,12 +53,15 @@ import styles from "../../pages/RealEstateLandingPage.module.css";
             alt=""
             src="/quoteright-2.svg"
           />
+          
           <img className={styles.vectorIcon5} alt="" src="/vector7.svg" />
           <img className={styles.vectorIcon6} alt="" src="/vector7.svg" />
           <img className={styles.vectorIcon7} alt="" src="/vector8.svg" />
           <img className={styles.vectorIcon8} alt="" src="/vector8.svg" />
+          </div>
+          
         </div>
-    </div>
+    
    
  
 
