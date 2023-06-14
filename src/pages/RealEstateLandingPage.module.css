@@ -811,7 +811,7 @@
   align-items: center;
   justify-content: center;
   font-size: var(--font-size-sm);
-}
+} 
 .mostDemanding {
   position: absolute;
   top: 0;
