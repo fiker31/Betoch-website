@@ -1265,16 +1265,16 @@
   left: 102px;
   border-top: 2px solid var(--color-skyblue-100);
   box-sizing: border-box;
-  width: 1065px;
+  width: 90%;
   height: 2px;
 }
 .copyright2023All {
   position: absolute;
   top: 3579px;
-  left: 382px;
-  display: inline-block;
-  width: 516px;
-  height: 24px;
+  left: 40%;
+
+  align-items:center;
+ justify-content: center;
 }
 .copyright1Icon {
   position: absolute;

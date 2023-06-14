@@ -5,9 +5,9 @@ export const Header: FunctionComponent = () => {
     return (
       
         <div >
-        <div className={styles.logoGroup}>
+        <div>
        
-       <div className={styles.logo1}>
+       <div >
       <div className={styles.betoch}>
         <img
           className={styles.defaultABeautifulModernLogIcon}

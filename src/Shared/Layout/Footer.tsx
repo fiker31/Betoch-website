@@ -3,7 +3,7 @@ import styles from "../../pages/RealEstateLandingPage.module.css";
 export const Footer: FunctionComponent = () => {
     return (
      
-        <div className={styles.frameParent}>
+        <div>
         <div className={styles.logoGroup}>
        
        <div className={styles.logo1}>
