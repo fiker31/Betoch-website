@@ -8,6 +8,7 @@ export const Partners: FunctionComponent = () => {
          <div className={styles.realEstateLandingPageInner2}>
         <div className={styles.rectangleParent8}>
           <div className={styles.groupChild26} />
+          
           <b className={styles.ourPartners}>
             <span>{`Our `}</span>
             <span className={styles.works}>Partners</span>
@@ -29,6 +30,7 @@ export const Partners: FunctionComponent = () => {
           />
         </div>
         </div>
+       
     
  
 

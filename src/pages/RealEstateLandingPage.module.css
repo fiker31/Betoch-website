@@ -1185,10 +1185,11 @@
   width: 150%;
   height: 298px;
 }
+
 .ourPartners {
   position: absolute;
   top: 19px;
-  left: 450px;
+  left: 730px;
   display: inline-block;
   width: 380px;
   height: 39px;
@@ -1206,12 +1207,13 @@
 .removebgPreview1Icon,
 .removebgPreview1Icon1 {
   top: 120px;
-  left: 534px;
+  left: 800px;
   height: 122.49px;
+  
 }
 .removebgPreview1Icon1 {
   top: 115px;
-  left: 976px;
+  left: 1500px;
   height: 123.63px;
 }
 .rectangleParent8 {
