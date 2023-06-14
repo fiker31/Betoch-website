@@ -815,7 +815,7 @@
 .mostDemanding {
   position: absolute;
   top: 0;
-  left: 361px;
+  left: 450px;
   font-size: var(--font-size-21xl);
   display: inline-block;
   width: 352px;
@@ -951,7 +951,7 @@
 .frameDiv {
   position: absolute;
   top: 1716px;
-  left: 106px;
+  left: 350px;
   display: flex;
   flex-direction: column;
   padding: 0 47px 0 0;
