@@ -1179,11 +1179,10 @@
   font-size: var(--font-size-mini);
 }
 .groupChild26 {
-  position: absolute;
   top: 0;
   left: 0;
   background-color: #e3eff3;
-  width: 1280px;
+  width: 150%;
   height: 298px;
 }
 .ourPartners {
@@ -1216,9 +1215,10 @@
   height: 123.63px;
 }
 .rectangleParent8 {
-  position: relative;
+  
   width: 1280px;
   height: 298px;
+
 }
 .logo1
 {
