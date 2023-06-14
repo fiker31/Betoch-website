@@ -1221,7 +1221,7 @@
   height: 298px;
 }
 .logo1,
-.realEstateLandingPageInner2 {
+{
   position: absolute;
   display: flex;
   align-items: center;
@@ -1232,6 +1232,11 @@
   left: 0;
   flex-direction: column;
   font-size: var(--font-size-21xl);
+  position: absolute;
+
+
+  align-items: center;
+  justify-content: center;
 }
 .logo1 {
   top: calc(50% - 40.5px);
